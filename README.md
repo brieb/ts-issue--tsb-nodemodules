@@ -1,3 +1,5 @@
+https://github.com/microsoft/TypeScript/issues/38648
+
 Changes to types within `node_modules` do not invalidate the TypeScript build output.
 
 1. `yarn tsc -b tsconfig.soln.json`. Notice that no errors are reported.
