@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    { "path": "./projects/proj-01/tsconfig.json" },
+    { "path": "./projects/proj-02/tsconfig.json" },
+    { "path": "./projects/proj-03/tsconfig.json" },
+  ]
+}
